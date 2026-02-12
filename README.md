@@ -39,7 +39,7 @@ The core logic of this tool is written in Python using the Tkinter library. You 
 
 ### 📦 Standalone Version
 
-For users who do not have Python installed, a standalone Windows executable is available in the [Releases section](https://github.com/contactpyxelmorph-afk/Pyxel-Matrix/releases).
+standalone Windows executable is available in the [Releases section](https://github.com/contactpyxelmorph-afk/Pyxel-Matrix/releases).
 
 ---
 
